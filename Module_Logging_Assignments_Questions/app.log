@@ -1,0 +1,3 @@
+2026-06-20 17:20:36-DEBUG-This is debug message for module1
+2026-06-20 17:20:36-WARNING-This is a warning message for module 2
+2026-06-20 17:20:36-ERROR-This is an error message
